@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="936b053c-e78f-4613-aee8-8827bde3f469" name="更改" comment="240612">
-      <change afterPath="$PROJECT_DIR$/Tutorial20240512/.ipynb_checkpoints/sklearn_data_mining_1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sklearnDataMining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sklearnDataMining.iml" afterDir="false" />
+    <list default="true" id="936b053c-e78f-4613-aee8-8827bde3f469" name="更改" comment="240613">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial20240512/sklearn_data_mining_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial20240512/sklearn_data_mining_1.ipynb" afterDir="false" />
     </list>
@@ -56,6 +54,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="240612" />
-    <option name="LAST_COMMIT_MESSAGE" value="240612" />
+    <MESSAGE value="240613" />
+    <option name="LAST_COMMIT_MESSAGE" value="240613" />
   </component>
 </project>
