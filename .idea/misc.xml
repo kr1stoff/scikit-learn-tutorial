@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="sklearnDataMining" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="sklearnDataMining" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="scikit-learn-tutorial" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
