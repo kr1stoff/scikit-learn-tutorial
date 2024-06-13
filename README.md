@@ -1,5 +1,9 @@
 # scikit-learn tutorial
 
+## 依赖
+- scikit-learn
+- matplotlib
+
 ## scikit-learn 机器学习简介
 1. RandomForestClassifier 随机森林 
 2. cross_validate 交叉验证模型和数据 
