@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936b053c-e78f-4613-aee8-8827bde3f469" name="更改" comment="240613">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial20240512/sklearn_data_mining_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial20240512/sklearn_data_mining_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
